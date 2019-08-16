@@ -1,0 +1,6 @@
+.idea
+/venv/
+config.py
+test.py
+all_data.csv
+.ipynb_checkpoints/
